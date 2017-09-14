@@ -16,7 +16,7 @@ From the very next lecture, we will be dwelling deeper and deeper into code. Ple
 
 If you have any questions during the way (and you should), please ask on Slack, in the #code channel.
 
-## Section 1
+## Week 1
 
 ### Tasks
 
