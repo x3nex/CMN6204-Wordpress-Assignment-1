@@ -8,7 +8,17 @@ During this assignment, you will put that knowledge into practice, and it is exp
 
 At the end of the assignment, you will have a repository with a working Wordpress installation, ready for further work. We will use this same project to built custom themes in the following assignments.
 
-## Tasks
+# Deadline
+
+The project is mandatory, as we will use it on lectures. All tasks are mandatory. The deadline is next Wednesday at 23:59. 
+
+From the very next lecture, we will be dwelling deeper and deeper into code. Please do not fail to submit the project on time, as it will prevent you from actively working on the lecture and understanding the future code.
+
+If you have any questions during the way (and you should), please ask on Slack, in the #code channel.
+
+## Section 1
+
+### Tasks
 
 1. Fork this repository grom GitHub to your own account
 2. Pull the repository to your local machine. Your wordpress will be installed here, and all your work must be submitted through this repository.
@@ -28,13 +38,3 @@ At the end of the assignment, you will have a repository with a working Wordpres
 16. Commit all changes and open up a pull request aimed at the original SAE repository on GitHub.
 
 Rejoice, Hooray!
-
-## Deadline
-
-The project is mandatory, as we will use it on lectures. All tasks are mandatory. The deadline is next Wednesday at 23:59. 
-
-From the very next lecture, we will be dwelling deeper and deeper into code. Please do not fail to submit the project on time, as it will prevent you from actively working on the lecture and understanding the future code.
-
-If you have any questions during the way (and you should), please ask on Slack, in the #code channel.
-
-Good luck!
